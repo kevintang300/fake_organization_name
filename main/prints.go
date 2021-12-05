@@ -18,8 +18,14 @@ func d6() {
 	fmt.Print("d6")
 }
 
-
 func d7() {
 	fmt.Print("d7")
 }
 
+func printMain() {
+	fmt.Print("main")
+}
+
+func yoPrint() {
+	fmt.Print("YO")
+}
