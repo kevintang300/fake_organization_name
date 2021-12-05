@@ -29,3 +29,6 @@ func printMain() {
 func yoPrint() {
 	fmt.Print("YO")
 }
+func newPrinting() {
+	fmt.Print("Some testing print")
+}
