@@ -25,3 +25,7 @@ func d7() {
 func printMain() {
 	fmt.Print("main")
 }
+
+func yoPrint() {
+	fmt.Print("YO")
+}
