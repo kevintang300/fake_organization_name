@@ -9,8 +9,3 @@ func printBye() {
 func printHello() {
 	fmt.Println("Hello")
 }
-
-func printDevTwo() {
-	fmt.Println("From Dev2")
-}
-
