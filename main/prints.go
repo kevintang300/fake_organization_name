@@ -8,3 +8,4 @@ func printBye() {
 
 func printHello() {
 	fmt.Println("Hello")
+}
