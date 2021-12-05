@@ -13,3 +13,7 @@ func printHello() {
 func sup() {
 	fmt.Print("Sup")
 }
+
+func d6() {
+	fmt.Print("d6")
+}
