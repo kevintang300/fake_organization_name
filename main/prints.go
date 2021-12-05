@@ -32,3 +32,7 @@ func yoPrint() {
 func newPrinting() {
 	fmt.Print("Some testing print")
 }
+
+func kPrint() {
+	fmt.Print("k")
+}
